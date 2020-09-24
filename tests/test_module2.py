@@ -1,7 +1,8 @@
-import pytest
 import matplotlib
 import numpy as np
 import pandas as pd
+import pytest
+
 matplotlib.use('Agg')
 
 from .utils import get_assignments, get_calls

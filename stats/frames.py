@@ -1,6 +1,3 @@
-import pandas as pd
-import matplotlib.pyplot as plt
-
 try:
     from data import games
 

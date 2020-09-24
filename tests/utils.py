@@ -1,8 +1,7 @@
 import ast
-import inspect
-import json
-import os
 import collections
+import inspect
+
 
 def convert_ast(node, return_type='string', include_type=False, sep=':'):
     count = 1
